@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0BC4418A22BBBD940022E6D3 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BC4418922BBBD940022E6D3 /* DetailViewController.swift */; };
 		0BD8A5BE22BBA9050016DE0F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD8A5BD22BBA9050016DE0F /* AppDelegate.swift */; };
 		0BD8A5C022BBA9050016DE0F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD8A5BF22BBA9050016DE0F /* ViewController.swift */; };
 		0BD8A5C322BBA9050016DE0F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BD8A5C122BBA9050016DE0F /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0BC4418922BBBD940022E6D3 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		0BD8A5BA22BBA9050016DE0F /* Texty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Texty.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BD8A5BD22BBA9050016DE0F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0BD8A5BF22BBA9050016DE0F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				0BD8A5BD22BBA9050016DE0F /* AppDelegate.swift */,
 				0BD8A5BF22BBA9050016DE0F /* ViewController.swift */,
+				0BC4418922BBBD940022E6D3 /* DetailViewController.swift */,
 				0BD8A5C122BBA9050016DE0F /* Main.storyboard */,
 				0BD8A5C422BBA9060016DE0F /* Assets.xcassets */,
 				0BD8A5C622BBA9060016DE0F /* LaunchScreen.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0BC4418A22BBBD940022E6D3 /* DetailViewController.swift in Sources */,
 				0BD8A5C022BBA9050016DE0F /* ViewController.swift in Sources */,
 				0BD8A5BE22BBA9050016DE0F /* AppDelegate.swift in Sources */,
 			);
